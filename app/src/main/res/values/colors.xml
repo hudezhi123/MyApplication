@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_line">#FFaaaaaa</color>
+    <color name="gray_line_light">#88dddddd</color>
+    <color name="gray_bg_light">#88dddddd</color>
+    <color name="gray_text">#FF959595</color>
+    <color name="black_text">#FF151515</color>
+    <color name="black_line">#FF353535</color>
+    <color name="yellow_theme">#FFFCCE02</color>
+
+    <color name="gray_linear_press">#aaaaaaaa</color>
+    <color name="gray_linear_unpress">#ffffffff</color>
+
+    <color name="red_press">#FFFF0000</color>
+    <color name="red_unpress">#DDFF1111</color>
+</resources>
