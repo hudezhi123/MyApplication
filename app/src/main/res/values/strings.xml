@@ -36,6 +36,9 @@
     <string name="delete">清除</string>
     <string name="finish">完成</string>
 
+    <string name="income_yuan">收入(元)</string>
+    <string name="expend_yuan">支出(元)</string>
+    <string name="remainder_yuan">结余(元)</string>
 
     <string-array name="pay_methods">
         <item>现金</item>

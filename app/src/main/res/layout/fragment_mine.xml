@@ -181,7 +181,7 @@
         <ImageView
             android:id="@+id/img_download_data"
             style="@style/LinearImageTheme"
-            android:src="@mipmap/icon_update" />
+            android:src="@mipmap/icon_download_data" />
 
         <TextView
             style="@style/LinearTextViewTheme"
@@ -205,7 +205,7 @@
         <ImageView
             android:id="@+id/img_update_info"
             style="@style/LinearImageTheme"
-            android:src="@mipmap/icon_update" />
+            android:src="@mipmap/revise" />
 
         <TextView
             style="@style/LinearTextViewTheme"

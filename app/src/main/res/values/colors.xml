@@ -9,7 +9,7 @@
     <color name="gray_bg_light">#88dddddd</color>
     <color name="gray_text">#FF959595</color>
     <color name="black_text">#FF151515</color>
-    <color name="black_line">#FF353535</color>
+    <color name="black_line">#FF000000</color>
     <color name="yellow_theme">#FFFCCE02</color>
 
     <color name="gray_linear_press">#aaaaaaaa</color>
